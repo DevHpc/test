@@ -4,7 +4,7 @@ Ce test a été réalisé dans le but de valider certaines notions / compétence
 Ce test ne va pas vous manger 😉. Nous voulons vérifier un minimum de notion.
 Ce test est divisé en 2 grande parties :
 * Une première partie style QCM avec des questions à réponses uniques ( dans le cas des questions d'algorithmes). 
-Cette partie est chronométré (pour ne pas durer une éternité bien sûr)
+Cette partie est chronométré (pour ne pas cette dernière dure une éternité bien sûr)
 * Une deuxième partie avec de la compréhension de code 
 
 Un interlocuteur sera présent avec vous pour d'éventuelles questions sur le test ( mais pas sur votre code 😅)
